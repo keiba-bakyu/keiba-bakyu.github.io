@@ -1,0 +1,220 @@
+[
+  {
+    "model": "統馬式",
+    "price": 999,
+    "title": "2026年11月20日 統馬式｜大井11R・笠松10R・園田11R",
+    "url": "https://note.com/food_mogmog/n/nf3ec6a4e52ca",
+    "published_at": "2026-11-20T08:45:00+09:00",
+    "races": [
+      "大井11R",
+      "笠松10R",
+      "園田11R"
+    ],
+    "kind": "有料・研究参考予想"
+  },
+  {
+    "model": "明翔式",
+    "price": 888,
+    "title": "2026年11月20日｜明翔式 大井・笠松・園田の3場メイン",
+    "url": "https://note.com/food_mogmog/n/n9faa3a4cec84",
+    "published_at": "2026-11-20T08:36:00+09:00",
+    "races": [
+      "大井11R",
+      "笠松11R",
+      "園田11R"
+    ],
+    "kind": "有料・研究参考予想"
+  },
+  {
+    "model": "馬究式",
+    "price": 1389,
+    "title": "2026年11月20日 馬究式｜笠松3R・10R、大井4R＋参考2R",
+    "url": "https://note.com/food_mogmog/n/nc4fa880d7ea0",
+    "published_at": "2026-11-20T08:28:00+09:00",
+    "races": [
+      "笠松3R",
+      "笠松10R",
+      "大井4R"
+    ],
+    "reference_races": [
+      "園田8R",
+      "大井12R"
+    ],
+    "kind": "有料・研究参考予想"
+  },
+  {
+    "model": "統馬式",
+    "price": 999,
+    "title": "2026年11月19日 統馬式｜大井ローズベール賞・笠松グランプリ・園田11R",
+    "url": "https://note.com/food_mogmog/n/n38f98668cca2",
+    "published_at": "2026-11-19T09:41:00+09:00",
+    "races": [
+      "大井11R",
+      "笠松11R",
+      "園田11R"
+    ],
+    "kind": "有料・研究参考予想"
+  },
+  {
+    "model": "明翔式",
+    "price": 888,
+    "title": "2026年11月19日｜明翔式 笠松グランプリと3場のメイン",
+    "url": "https://note.com/food_mogmog/n/nbe411f3d26d4",
+    "published_at": "2026-11-19T09:39:00+09:00",
+    "races": [
+      "大井11R",
+      "笠松11R",
+      "園田11R"
+    ],
+    "kind": "有料・研究参考予想"
+  },
+  {
+    "model": "馬究式",
+    "price": 1389,
+    "title": "2026年11月19日 馬究式｜大井5R・笠松2R・園田10R＋参考2R",
+    "url": "https://note.com/food_mogmog/n/nc29d10fbced5",
+    "published_at": "2026-11-19T09:35:00+09:00",
+    "races": [
+      "大井5R",
+      "笠松2R",
+      "園田10R"
+    ],
+    "reference_races": [
+      "大井7R",
+      "園田11R"
+    ],
+    "kind": "有料・研究参考予想"
+  },
+  {
+    "model": "統馬式",
+    "price": 999,
+    "title": "2026年11月18日 統馬式｜大井11R・笠松10R・園田11R",
+    "url": "https://note.com/food_mogmog/n/n872e4c31954f",
+    "published_at": "2026-11-18T09:11:50+09:00",
+    "races": [
+      "大井11R",
+      "笠松10R",
+      "園田11R"
+    ],
+    "kind": "有料・研究参考予想"
+  },
+  {
+    "model": "明翔式",
+    "price": 888,
+    "title": "2026年11月18日 明翔式｜大井11R・笠松5R・園田11R",
+    "url": "https://note.com/food_mogmog/n/n0e9c3d4961cd",
+    "published_at": "2026-11-18T09:05:10+09:00",
+    "races": [
+      "大井11R",
+      "笠松5R",
+      "園田11R"
+    ],
+    "kind": "有料・研究参考予想"
+  },
+  {
+    "model": "馬究式",
+    "price": 1389,
+    "title": "2026年11月18日 馬究式｜園田11R・大井5R・大井12R＋おまけ2R",
+    "url": "https://note.com/food_mogmog/n/n4b8e0597a24e",
+    "published_at": "2026-11-18T09:00:55+09:00",
+    "races": [
+      "園田11R",
+      "大井5R",
+      "大井12R"
+    ],
+    "reference_races": [
+      "園田2R",
+      "大井10R"
+    ],
+    "kind": "有料・研究参考予想"
+  },
+  {
+    "model": "統馬式",
+    "price": 999,
+    "title": "2026年11月17日 統馬式｜水沢4R・大井11R・金沢6R",
+    "url": "https://note.com/food_mogmog/n/n856e8dce01a1",
+    "published_at": "2026-11-17T09:45:00+09:00",
+    "races": [
+      "水沢4R",
+      "大井11R",
+      "金沢6R"
+    ],
+    "kind": "有料・研究参考予想"
+  },
+  {
+    "model": "明翔式",
+    "price": 888,
+    "title": "2026年11月17日 明翔式｜水沢11R・大井7R・金沢ヤングチャンピオン",
+    "url": "https://note.com/food_mogmog/n/n60b336042e0c",
+    "published_at": "2026-11-17T09:19:00+09:00",
+    "races": [
+      "水沢11R",
+      "大井7R",
+      "金沢11R"
+    ],
+    "kind": "有料・研究参考予想"
+  },
+  {
+    "model": "馬究式",
+    "price": 1389,
+    "title": "2026年11月17日 馬究式｜金沢5R・金沢6R・大井7R＋参考2R",
+    "url": "https://note.com/food_mogmog/n/n1be5dd135c16",
+    "published_at": "2026-11-17T14:43:00+09:00",
+    "races": [
+      "金沢5R",
+      "金沢6R",
+      "大井7R"
+    ],
+    "reference_races": [
+      "金沢4R",
+      "大井9R"
+    ],
+    "kind": "有料・研究参考予想"
+  },
+  {
+    "model": "玄馬の穴監査",
+    "price": 777,
+    "title": "2026年11月17日｜玄馬の穴監査・午後の2頭",
+    "url": "https://note.com/food_mogmog/n/n44cecdb1ef32",
+    "published_at": "2026-11-17T15:26:00+09:00",
+    "races": [
+      "水沢8R",
+      "金沢8R"
+    ],
+    "kind": "有料・研究参考予想"
+  },
+  {
+    "model": "馬究式",
+    "price": 2500,
+    "title": "2026年11月17日 馬究式｜金沢・未発走レースの総合見解",
+    "url": "https://note.com/food_mogmog/n/nbaff40fa0b01",
+    "published_at": "2026-11-17T17:07:00+09:00",
+    "races": [
+      "金沢6R",
+      "金沢7R",
+      "金沢8R",
+      "金沢9R",
+      "金沢10R",
+      "金沢11R",
+      "金沢12R"
+    ],
+    "kind": "有料・研究参考予想"
+  },
+  {
+    "model": "馬究式",
+    "price": 999,
+    "title": "2026年11月17日 馬究式｜大井・未発走レースの総合見解",
+    "url": "https://note.com/food_mogmog/n/n81845ea44170",
+    "published_at": "2026-11-17T17:16:00+09:00",
+    "races": [
+      "大井6R",
+      "大井7R",
+      "大井8R",
+      "大井9R",
+      "大井10R",
+      "大井11R",
+      "大井12R"
+    ],
+    "kind": "有料・研究参考予想"
+  }
+]
