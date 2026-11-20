@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://keiba-bakyu.github.io/sitemap.xml
