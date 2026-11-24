@@ -1,11 +1,68 @@
 [
   {
+    "model": "明翔式",
+    "price": 888,
+    "title": "【11月25日・明翔式】園田11R・浦和11R・名古屋8R",
+    "url": "https://note.com/food_mogmog/n/n35c3aec2d260",
+    "published_at": "2026-11-25T08:08:00+09:00",
+    "races": [
+      "園田11R",
+      "浦和11R",
+      "名古屋8R"
+    ],
+    "kind": "有料・研究参考予想"
+  },
+  {
     "model": "馬究",
     "price": 0,
     "title": "【結果検証】11月23日 馬究3方式の成績",
     "url": "https://note.com/food_mogmog/n/n5d8cc20e2f7e",
     "published_at": "2026-11-24T10:11:00+09:00",
-    "races": ["水沢","福島","東京","金沢","佐賀"],
+    "races": [
+      "水沢",
+      "福島",
+      "東京",
+      "金沢",
+      "佐賀"
+    ],
+    "kind": "無料・結果検証"
+  },
+  {
+    "model": "馬究",
+    "price": 0,
+    "title": "【結果検証】11月22日 馬究3方式の成績",
+    "url": "https://note.com/food_mogmog/n/n1487e27fc894",
+    "published_at": "2026-11-23T10:09:00+09:00",
+    "races": [
+      "京都",
+      "東京",
+      "高知"
+    ],
+    "kind": "無料・結果検証"
+  },
+  {
+    "model": "馬究",
+    "price": 0,
+    "title": "【結果検証】11月21日 馬究3方式の成績",
+    "url": "https://note.com/food_mogmog/n/n63c7e64d3cbc",
+    "published_at": "2026-11-22T10:02:00+09:00",
+    "races": [
+      "京都",
+      "福島"
+    ],
+    "kind": "無料・結果検証"
+  },
+  {
+    "model": "馬究",
+    "price": 0,
+    "title": "【結果検証】11月20日 馬究3方式の成績",
+    "url": "https://note.com/food_mogmog/n/n3106d8994ce4",
+    "published_at": "2026-11-21T10:02:00+09:00",
+    "races": [
+      "大井",
+      "笠松",
+      "園田"
+    ],
     "kind": "無料・結果検証"
   },
   {
