@@ -1,8 +1,5 @@
 [
-  {
-    "model": "明翔式",
-    "price": 888,
-    "title": "【11月25日・明翔式】園田11R・浦和11R・名古屋8R",
+  { "model": "馬究", "price": 0, "title": "【結果検証】11月24日 馬究3方式の成績", "url": "https://note.com/food_mogmog/n/n4fcbf2a15bae", "published_at": "2026-11-25T10:05:00+09:00", "races": ["水沢", "浦和", "名古屋"], "kind": "無料・結果検証" }, { "model": "明翔式", "price": 888, "title": "【11月25日・明翔式】園田11R・浦和11R・名古屋8R",
     "url": "https://note.com/food_mogmog/n/n35c3aec2d260",
     "published_at": "2026-11-25T08:08:00+09:00",
     "races": [
