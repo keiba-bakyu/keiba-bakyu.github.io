@@ -1,4 +1,8 @@
 [
+
+  {"model":"明翔式","price":0,"title":"2026-11-27 明翔式・無料補填｜浦和9R 馬単","url":"https://note.com/food_mogmog/n/n7acd84cb4500","published_at":"2026-11-27T08:32:00+09:00","races":["浦和9R"],"kind":"単独・無料補填"},
+    {"model":"明翔式","price":0,"title":"2026-11-27 明翔式・無料補填｜園田9R ワイド","url":"https://note.com/food_mogmog/n/n829cbd40d30c","published_at":"2026-11-27T08:30:00+09:00","races":["園田9R"],"kind":"単独・無料補填"},
+    {"model":"馬究式","price":398,"title":"2026-11-27 馬究式｜浦和9R ワイド","url":"https://note.com/food_mogmog/n/n54e0c4b5f995","published_at":"2026-11-27T08:27:00+09:00","races":["浦和9R"],"kind":"単独・有料・研究参考予想"},
   {
     "model": "馬究",
     "price": 0,
